@@ -22,13 +22,13 @@ Data Analyst & Data Engineer working with SQL, Power BI, Python, and Azure. I bu
 ---
 
 ## 📈 Featured Projects
-### Healthcare Analytics Dashboard (Power BI)
+### Healthcare Analytics Dashboard (Sql + Python + Power BI)
 - Executive metrics, length of stay, billing insights, and patient trends.
   
-### Retail Supply Chain Analytics (Power BI)
+### Retail Supply Chain Analytics (Sql + Python + Power BI)
 - Freight movement, delivery times, shipping cost analysis, and vendor performance.
 
-### Customer Behavior Analysis (Python + Power BI)
+### Customer Behavior Analysis (Sql + Python + Power BI)
 - Segmentation, revenue drivers, demographic purchasing patterns.
 
 ---
