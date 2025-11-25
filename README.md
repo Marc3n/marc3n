@@ -1,7 +1,7 @@
 
 
 
-# 👋 Hi, I'm Mr. Marc Nelson
+# 👋 Hi, I'm Mr. Nelson
 
 Data Analyst & Data Engineer working with SQL, Power BI, Python, and Azure. I build clean data models, create meaningful dashboards, and turn messy datasets into real insights.
 
