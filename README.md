@@ -11,7 +11,7 @@ Data Analyst & Data Engineer working with SQL, Power BI, Python, and Azure. I bu
 **Languages:** SQL, Python  
 **BI & Visualization:** Power BI, Power Query, DAX, Excel  
 **Data Ops:** ETL, Data Modeling, Forecasting, KPI Development  
-**Tools:** Azure, MySQL, Pandas, GitHub, Jupyter
+**Tools:** Azure, MySQL, Pandas, SQL Server, GitHub, Jupyter
 
 ---
 
