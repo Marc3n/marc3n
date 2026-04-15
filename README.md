@@ -16,7 +16,7 @@ Data Analyst & Data Engineer working with SQL, Power BI, Python, and Azure. I bu
 ---
 
 ## 🎓 Certifications
-- Microsoft Power BI Data Analyst (PL-300) — https://bit.ly/43PcTDQ](https://bit.ly/4dKRAJr
+- Microsoft Power BI Data Analyst (PL-300) — https://bit.ly/4dKRAJr
 - Azure Data Fundamentals (DP-900) — https://bit.ly/3XVP6yx
 
 ---
