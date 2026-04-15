@@ -20,10 +20,6 @@ Data Analyst & Data Engineer working with SQL, Power BI, Python, and Azure. I bu
 - Azure Data Fundamentals (DP-900) — https://bit.ly/3XVP6yx
 
 ---
-
-## 📈 Featured Projects
-### Healthcare Analytics Dashboard (Sql + Python + Power BI)
-- Executive metrics, length of stay, billing insights, and patient trends.
   
 ### Retail Supply Chain Analytics (Sql + Python + Power BI)
 - Freight movement, delivery times, shipping cost analysis, and vendor performance.
